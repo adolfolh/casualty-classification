@@ -1,1 +1,1 @@
-# Casuality Severity Classification
+# Traffic Casuality Severity Classification
